@@ -14,7 +14,7 @@ humantime: "12 p.m. - 5 p.m."    # human-readable times for the workshop (e.g., 
 startdate: 2021-06-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-06-09        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["David DeFranza", "Trevor Burrows", "Leah Guthrie", "Salman Bin Kashif"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Emma Slayton", "Melanie Gainey", "Sarah Young"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Emma Slayton", "Melanie Gainey", "Sarah Young", "Carrie Iwema", "Melissa Ratajeski", "Tanaya Seth", "Patrick Campbell"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["eslayton@andrew.cmu.edu","david.defranza@eccles.utah.edu", "dburrows@purdue.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2021-06-07-cmu-online 
 ---
